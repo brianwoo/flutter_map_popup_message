@@ -1,16 +1,16 @@
-# map_demo
+# flutter_map_popup_message
 
-A new Flutter project.
+This Flutter program is to demo how to show a popup message on top of the map when a pin is selected
 
-## Getting Started
+## Packages required
+- flutter_map
+- latlong2
+- provider
 
-This project is a starting point for a Flutter application.
+# Screenshots
+![No Pin Selected](./images/no_pin_selected.png "No Pin Selected")
+![Blue Pin Selected](./images/blue_pin_selected.png "Blue Pin Selected")
+![Green Pin Selected](./images/green_pin_selected.png "Green Pin Selected")
+![Purple Pin Selected](./images/purple_pin_selected.png "Purple Pin Selected")
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
